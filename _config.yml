@@ -1,0 +1,7 @@
+title: PackForge Industries
+description: Packaging machine guides from PackForge Industries, Faridabad, India. Impulse sealers, band sealers, strapping and carton sealing machines.
+url: https://packforgeindustries.github.io
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
